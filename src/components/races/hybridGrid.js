@@ -26,7 +26,7 @@ function HybridGrid() {
 
     return(
         <div>
-            <div class="flex justify-center font-mono border-b-2 border-black ml-4 mr-4">
+            <div class="flex justify-center font-mono border-b-2 border-black mt-4 ml-4 mr-4">
                 <h2>Hybrids</h2>
             </div>
 
