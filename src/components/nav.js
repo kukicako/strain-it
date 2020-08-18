@@ -10,7 +10,7 @@ function Nav() {
                 <img class="h-11/12 w-11/12" src={Logo} alt="logo-img"></img>
             </div>
             <div class="flex items-center  w-3/4">
-                <h1 class="text-xl ml-2 text-purple-600 lg:text-4xl">Power-Flower</h1>
+                <h1 class="text-xl ml-2 text-purple-600 lg:text-4xl">Flower-Power</h1>
             </div>
         </div>
 
