@@ -8,7 +8,7 @@ function IndicaGrid() {
 
     useEffect(() => {
         Axios
-        .get('http://strainapi.evanbusse.com/muq1pA2/strains/search/race/indica'
+        .get('https://strainapi.evanbusse.com/muq1pA2/strains/search/race/indica'
         )
         
         // .then(res => res.json())

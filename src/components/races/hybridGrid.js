@@ -8,7 +8,7 @@ function HybridGrid() {
 
     useEffect(() => {
         Axios
-        .get('http://strainapi.evanbusse.com/muq1pA2/strains/search/race/hybrid'
+        .get('https://strainapi.evanbusse.com/muq1pA2/strains/search/race/hybrid'
         )
         
         // .then(res => res.json())

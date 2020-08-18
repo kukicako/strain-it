@@ -8,7 +8,7 @@ function SativaGrid() {
 
     useEffect(() => {
         Axios
-        .get('http://strainapi.evanbusse.com/muq1pA2/strains/search/race/sativa'
+        .get('https://strainapi.evanbusse.com/muq1pA2/strains/search/race/sativa'
         )
         
         // .then(res => res.json())
