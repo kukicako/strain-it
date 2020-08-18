@@ -17,11 +17,11 @@ function Nav() {
 
         <div class="flex w-6/12">
             <div class="flex justify-end w-full h-full items-center">
-                <div class="flex justify-center w-1/3 md:w-2/12 lg:w-1/12">
+                <div class="flex justify-center w-1/3 md:w-2/12 lg:w-2/12">
                     <a href="/" className="hvr-underline-from-center text-sm lg:text-2xl ">Log In</a>
                 </div>
 
-                <div class="flex justify-center w-1/3 mr-4 md:w-2/12 lg:mr-20 lg:w-1/12">
+                <div class="flex justify-center w-1/3 mr-4 md:w-2/12 lg:mr-20 lg:w-2/12">
                     <a href="/" className="hvr-underline-from-center text-sm lg:text-2xl">Sign Up</a>
                 </div>
                 
