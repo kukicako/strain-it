@@ -84,9 +84,9 @@
   width: 100;
 }
 .wrapper .item{
-  min-width: 20em;
+  min-width: 9em;
   text-align: center;
-  height: 18em;
+  height: 10em;
   border:1px solid gray;
   margin-right: 1em
 }
