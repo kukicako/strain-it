@@ -15,7 +15,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-               'verdana': 'Verdana, Geneva, sans-serif',
+               'verdana': 'Verdana',
             }
         },
       },

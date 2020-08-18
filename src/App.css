@@ -69,3 +69,30 @@
   left: 0;
   right: 0;
 }
+
+.wrapper{
+  /* border: 2px solid red; */
+  max-height: 20em;
+  display: flex;
+  overflow-x: auto;
+  margin-top:1em;
+  justify-content: space-between;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+.wrapper::-webkit-scrollbar{
+  width: 100;
+}
+.wrapper .item{
+  min-width: 20em;
+  text-align: center;
+  height: 18em;
+  border:1px solid gray;
+  margin-right: 1em
+}
+.item{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 1em; */
+}
